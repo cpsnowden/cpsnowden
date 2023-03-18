@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 🔭 I’m currently working on a sign language gaming website/app available in BETA at [swordle.dev](https://swordle.dev)
+<!-- - 🔭 I’m currently working on a sign language gaming website/app available in BETA at [swordle.dev](https://swordle.dev) -->
 
 <!--
 **cpsnowden/cpsnowden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
