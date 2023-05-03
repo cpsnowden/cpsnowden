@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Recent personal/group projects:
+Recent non-professional group/personal projects:
 
 - [WIP] **SwimLane** an ongoing project to provide an aggregated view of swim lap lane availability across different London vendors.
   - https://github.com/cpsnowden/swimlane
