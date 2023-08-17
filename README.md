@@ -3,7 +3,7 @@
 Recent non-professional group/personal projects:
 
 - [WIP] **SwimLane** an ongoing project to provide an aggregated view of swim lap lane availability across different London vendors.
-  - Live URL: https://cpsnowden.github.io/swimlane-ui/
+  - Live URL: https://swimminglane.co.uk
   - Backend: https://github.com/cpsnowden/swimlane
   - FrontEnd: https://github.com/cpsnowden/swimlane-ui
   
